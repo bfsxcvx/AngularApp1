@@ -512,19 +512,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Breck\\.nuget\\packages\\": {}
+    "C:\\Users\\breck\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Breck\\source\\repos\\AngularApp1\\AngularApp1.Server\\AngularApp1.Server.csproj",
+      "projectUniqueName": "C:\\Github\\AngularApp1\\AngularApp1\\AngularApp1.Server\\AngularApp1.Server.csproj",
       "projectName": "AngularApp1.Server",
-      "projectPath": "C:\\Users\\Breck\\source\\repos\\AngularApp1\\AngularApp1.Server\\AngularApp1.Server.csproj",
-      "packagesPath": "C:\\Users\\Breck\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Breck\\source\\repos\\AngularApp1\\AngularApp1.Server\\obj\\",
+      "projectPath": "C:\\Github\\AngularApp1\\AngularApp1\\AngularApp1.Server\\AngularApp1.Server.csproj",
+      "packagesPath": "C:\\Users\\breck\\.nuget\\packages\\",
+      "outputPath": "C:\\Github\\AngularApp1\\AngularApp1\\AngularApp1.Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Breck\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\breck\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -544,11 +544,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -579,24 +574,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.28, 6.0.28]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.28, 6.0.28]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.28, 6.0.28]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.28, 6.0.28]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -605,7 +582,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
